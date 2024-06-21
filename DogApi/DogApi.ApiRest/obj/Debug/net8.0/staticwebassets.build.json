@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZhMIRozgKQsJ9LLvKI/nm5jhemimaFKrrUx3GDoJmq0=",
+  "Source": "DogApi.ApiRest",
+  "BasePath": "_content/DogApi.ApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
