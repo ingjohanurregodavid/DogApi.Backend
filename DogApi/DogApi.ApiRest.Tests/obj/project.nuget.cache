@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fz4tCe0yJ9qdM65DvlDuk2DWibRrGJsMjWBRb62IgsH6kifHaMyQA1l9OB0vaOujTqJwGvHBe7278EeZqfW/DQ==",
+  "dgSpecHash": "ycK3aJ2QeCWZV+ZJJ375q/2ciTx9zTwA+5rZ7QaC21aQXBQxlFPz8U0RYVoEgP4+EJ3E/TWdVSeixPojoii65Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\DogApi.ApiRest.Tests.csproj",
+  "projectFilePath": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\DogApi.ApiRest.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

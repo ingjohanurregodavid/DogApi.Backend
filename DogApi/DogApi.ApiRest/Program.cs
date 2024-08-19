@@ -9,6 +9,7 @@ using MediatR;
 using AutoMapper;
 using DogApi.ApiRest.Queries;
 using DogApi.ApiRest.Services;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 

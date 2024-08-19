@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DogApi.ApiRest.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ff7bc196e1589bf5bb14251360e25627dd88338")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47050beadac1ff78392a745e68deaa1305d1e4d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DogApi.ApiRest.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DogApi.ApiRest.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

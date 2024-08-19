@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BJaFrAVx2tEOSTEl7JvfVRV7zIwOkpnnHZbo087h1UN/pVgjPYDQsdIyr9aBQhIGRyeg1WV6xCEy1Zjciexn3w==",
+  "dgSpecHash": "CQyik+3WJ/T9YpR9x2EUpNrg/gYHDpIySaVcLdlQH6JMizO/NCfR+VePxJb60DXdK8mM0/2AuZgG2ac2ZUxbPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\DogApi.ApiRest.csproj",
+  "projectFilePath": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\DogApi.ApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",

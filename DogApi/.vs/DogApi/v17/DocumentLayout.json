@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\queries\\authenticateuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\queries\\authenticateuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\handlers\\authenticateuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\handlers\\authenticateuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\commands\\getdogbreedscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\commands\\getdogbreedscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\queries\\getrandomdogimagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\queries\\getrandomdogimagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\queries\\getdogbreedimagesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\queries\\getdogbreedimagesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\controllers\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\controllers\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\handlers\\getdogbreedimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\handlers\\getdogbreedimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\handlers\\getrandomdogimagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\handlers\\getrandomdogimagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\handlers\\getbreedlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\handlers\\getbreedlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\handlers\\getdogbreedimagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\handlers\\getdogbreedimagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|d:\\desarrollopruebas\\repos\\github\\dogapi.backend\\dogapi\\dogapi.apirest\\handlers\\getdogbreedsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA227670-477D-48B3-829E-75132C17C328}|DogApi.ApiRest\\DogApi.ApiRest.csproj|solutionrelative:dogapi.apirest\\handlers\\getdogbreedsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Services\\IAuthService.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:40:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Services\\AuthService.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Services\\AuthService.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:50:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateUserQueryHandler.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\AuthenticateUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Handlers\\AuthenticateUserQueryHandler.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\AuthenticateUserQueryHandler.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Handlers\\AuthenticateUserQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:48:55.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetDogBreedsCommand.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Commands\\GetDogBreedsCommand.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Commands\\GetDogBreedsCommand.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Commands\\GetDogBreedsCommand.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Commands\\GetDogBreedsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:46.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticateUserQuery.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Queries\\AuthenticateUserQuery.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Queries\\AuthenticateUserQuery.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Queries\\AuthenticateUserQuery.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Queries\\AuthenticateUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetDogBreedImagesQuery.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Queries\\GetDogBreedImagesQuery.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Queries\\GetDogBreedImagesQuery.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Queries\\GetDogBreedImagesQuery.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Queries\\GetDogBreedImagesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:36:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetRandomDogImageQuery.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Queries\\GetRandomDogImageQuery.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Queries\\GetRandomDogImageQuery.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Queries\\GetRandomDogImageQuery.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Queries\\GetRandomDogImageQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:36:33.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetDogBreedImagesQueryHandler.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetDogBreedImagesQueryHandler.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Handlers\\GetDogBreedImagesQueryHandler.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetDogBreedImagesQueryHandler.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Handlers\\GetDogBreedImagesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Program.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Program.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Program.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:06:41.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DogsController.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Controllers\\DogsController.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Controllers\\DogsController.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Controllers\\DogsController.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Controllers\\DogsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:48:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetBreedListQueryHandler.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetBreedListQueryHandler.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Handlers\\GetBreedListQueryHandler.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetBreedListQueryHandler.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Handlers\\GetBreedListQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetDogBreedImageQueryHandler.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetDogBreedImageQueryHandler.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Handlers\\GetDogBreedImageQueryHandler.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetDogBreedImageQueryHandler.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Handlers\\GetDogBreedImageQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:30.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetDogBreedsQueryHandler.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetDogBreedsQueryHandler.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Handlers\\GetDogBreedsQueryHandler.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetDogBreedsQueryHandler.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Handlers\\GetDogBreedsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetRandomDogImageQueryHandler.cs",
+              "DocumentMoniker": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetRandomDogImageQueryHandler.cs",
+              "RelativeDocumentMoniker": "DogApi.ApiRest\\Handlers\\GetRandomDogImageQueryHandler.cs",
+              "ToolTip": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest\\Handlers\\GetRandomDogImageQueryHandler.cs",
+              "RelativeToolTip": "DogApi.ApiRest\\Handlers\\GetRandomDogImageQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:25.718Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

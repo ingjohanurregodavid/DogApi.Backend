@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\DogApi.ApiRest.Tests.csproj",
+      "projectUniqueName": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\DogApi.ApiRest.Tests.csproj",
       "projectName": "DogApi.ApiRest.Tests",
-      "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\DogApi.ApiRest.Tests.csproj",
+      "projectPath": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\DogApi.ApiRest.Tests.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\obj\\",
+      "outputPath": "D:\\DesarrolloPruebas\\Repos\\GitHub\\DogApi.Backend\\DogApi\\DogApi.ApiRest.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
